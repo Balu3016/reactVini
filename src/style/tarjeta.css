@@ -1,0 +1,23 @@
+.tarjeta {
+    background-color: #ee6d6d;
+    color: #000000;
+    width: 18rem;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    padding: 4px 3px 10px 3px;
+}
+
+img{
+    width: 280px;
+    border: 1px solid #f1f1f1;
+    border-radius: 5px;
+}
+
+h5{
+    padding: 10px;
+
+}
+p{
+    padding: 10px;
+    text-align: justify;
+}
